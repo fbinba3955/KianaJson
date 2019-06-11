@@ -1,0 +1,23 @@
+{
+  "language": "zh_Hans",
+  "title": "${downspeed}, ${upspeed} - ${title}",
+  "titleRefreshInterval": 5000,
+  "browserNotification": false,
+  "rpcAlias": "pyone",
+  "rpcHost": "token:sjt3953395@65.49.213.110",
+  "rpcPort": "6800",
+  "rpcInterface": "jsonrpc",
+  "protocol": "http",
+  "httpMethod": "POST",
+  "secret": "c2p0Mzk1MzM5NQ==",
+  "extendRpcServers": [],
+  "globalStatRefreshInterval": 1000,
+  "downloadTaskRefreshInterval": 1000,
+  "rpcListDisplayOrder": "recentlyUsed",
+  "afterCreatingNewTask": "task-list",
+  "removeOldTaskAfterRetrying": false,
+  "afterRetryingTask": "task-list-downloading",
+  "displayOrder": "default:asc",
+  "fileListDisplayOrder": "default:asc",
+  "peerListDisplayOrder": "default:asc"
+}
