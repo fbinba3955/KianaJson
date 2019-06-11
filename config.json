@@ -1,6 +1,6 @@
 {
 	"data": {
-		"baseUrl":"http://pan.881023.top:9991",
+		"baseUrl":"http://api.881023.top",
 		"cmd": {
 			"v2ray":"v2ray",
 			"kod":"kod",
