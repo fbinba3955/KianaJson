@@ -1,6 +1,7 @@
 {
 	"data": {
 		"baseUrl":"880211.top",
+		"javUrl":"https://avmoo.asia/cn",
 		"cmd": {
 			"v2ray":"v2ray",
 			"kod":"kod",
