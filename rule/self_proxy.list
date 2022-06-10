@@ -1,0 +1,14 @@
+# 我的代理
+# DOMAIN-SUFFIX,mp4er.com
+DOMAIN-KEYWORD,mp4er
+DOMAIN-KEYWORD,mypikpak
+DOMAIN-KEYWORD,justmysocks
+DOMAIN-SUFFIX,dailygn.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,emby-cf.plusmedia.site
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,newspicks.com
+DOMAIN-SUFFIX,bintray.com
+IP-CIDR,223.113.13.0/24,no-resolve
