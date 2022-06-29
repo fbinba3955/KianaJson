@@ -13,4 +13,5 @@ DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,newspicks.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,vkuseraudio.net
+DOMAIN-SUFFIX,magazinelib.com
 IP-CIDR,223.113.13.0/24,no-resolve
