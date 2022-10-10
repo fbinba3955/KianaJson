@@ -8,8 +8,11 @@ DOMAIN-KEYWORD,duboku
 DOMAIN-KEYWORD,btnull
 DOMAIN-KEYWORD,dashlane
 DOMAIN-SUFFIX,dailygn.com
+
+# emby刮削使用
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetvdb.com
+
 DOMAIN-SUFFIX,emby-cf.plusmedia.site
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,ubuntu.com
@@ -19,6 +22,12 @@ DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,magazinelib.com
 DOMAIN-SUFFIX,beelinguapp.com
 DOMAIN-SUFFIX,globe.com.ph
+# 一元机场
 DOMAIN-SUFFIX,一元机场.com
 DOMAIN-SUFFIX,xn--4gq62f52gdss.com
+# 搬瓦工服务器
+DOMAIN,shidoc.com
+DOMAIN,x.shidoc.com
+DOMAIN,www.shidoc.com
+
 IP-CIDR,223.113.13.0/24,no-resolve
