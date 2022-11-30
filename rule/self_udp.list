@@ -1,13 +1,13 @@
 66.94.0.0/19
 206.29.177.36/32
-208.54.0.0/16  #部分IP被墙
+208.54.0.0/16
 
-crl.t-mobile.com
-eas3.msg.t-mobile.com
-mascns.t-mobile.com
-ns.sipgeo.t-mobile.com
+DOMAIN-SUFFIX, crl.t-mobile.com
+DOMAIN-SUFFIX, eas3.msg.t-mobile.com
+DOMAIN-SUFFIX, mascns.t-mobile.com
+DOMAIN-SUFFIX, ns.sipgeo.t-mobile.com
 
-epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
-epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX, epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX, epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX, ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX, ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
