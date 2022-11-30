@@ -8,6 +8,6 @@ DOMAIN-SUFFIX,mascns.t-mobile.com
 DOMAIN-SUFFIX,ns.sipgeo.t-mobile.com
 
 DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
-DOMAIN-SUFFIXepdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.or
