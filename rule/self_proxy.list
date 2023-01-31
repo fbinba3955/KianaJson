@@ -27,9 +27,13 @@ DOMAIN-SUFFIX,globe.com.ph
 # 一元机场
 DOMAIN-SUFFIX,一元机场.com
 DOMAIN-SUFFIX,xn--4gq62f52gdss.com
+
 # 搬瓦工服务器
 DOMAIN,shidoc.com
 DOMAIN,x.shidoc.com
 DOMAIN,www.shidoc.com
+
+# steam os
+DOMAIN,steamos.cloud
 
 IP-CIDR,223.113.13.0/24,no-resolve
