@@ -11,11 +11,6 @@ DOMAIN-SUFFIX,dailygn.com
 DOMAIN-SUFFIX,bkbpay.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,kaoshenzazhi.com
-
-# emby刮削使用
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,thetvdb.com
-
 DOMAIN-SUFFIX,emby-cf.plusmedia.site
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,ubuntu.com
