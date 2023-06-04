@@ -33,4 +33,6 @@ DOMAIN,www.shidoc.com
 # steam os
 DOMAIN,steamos.cloud
 
+DOMAIN,waikanmao.com
+
 IP-CIDR,223.113.13.0/24,no-resolve
