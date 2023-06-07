@@ -4,7 +4,6 @@ DOMAIN-KEYWORD,mp4er
 DOMAIN-KEYWORD,mypikpak
 DOMAIN-KEYWORD,justmysocks
 DOMAIN-KEYWORD,gunosy
-DOMAIN-KEYWORD,duboku
 DOMAIN-KEYWORD,btnull
 DOMAIN-KEYWORD,dashlane
 DOMAIN-SUFFIX,dailygn.com
@@ -29,6 +28,11 @@ DOMAIN-SUFFIX,xn--4gq62f52gdss.com
 DOMAIN,shidoc.com
 DOMAIN,x.shidoc.com
 DOMAIN,www.shidoc.com
+
+# 独播库
+DOMAIN-KEYWORD,duboku
+DOMAIN-SUFFIX,uhibo.com
+DOMAIN-SUFFIX,nboku.com
 
 # steam os
 DOMAIN,steamos.cloud
