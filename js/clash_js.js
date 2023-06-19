@@ -1,8 +1,8 @@
-function filter(node) {
-  const nodeServer = node.Hostname;
-  if (nodeServer.indexOf('unicorn') > -1) {
-    return 'unicorn ' + node.Remark;
+function rename(node) {
+  const nodeInfo = JSON.parse(node.ProxyInfo);
+  if (nodeInfo.Hostname.indexOf('unicorn') > -1) {
+    return 'unicorn ' + nodeInfo.Remark;
   } else {
-    return node.Remark;
+    return nodeInfo.Remark;
   }
 }
