@@ -26,9 +26,9 @@ DOMAIN-SUFFIX,一元机场.com
 DOMAIN-SUFFIX,xn--4gq62f52gdss.com
 
 # 搬瓦工服务器
-DOMAIN,shidoc.com
-DOMAIN,x.shidoc.com
-DOMAIN,www.shidoc.com
+#DOMAIN,shidoc.com
+#DOMAIN,x.shidoc.com
+#DOMAIN,www.shidoc.com
 
 # 独播库
 DOMAIN-KEYWORD,duboku
