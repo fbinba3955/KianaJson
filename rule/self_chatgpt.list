@@ -1,4 +1,12 @@
 # chatgpt
 DOMAIN-SUFFIX,openai.com
+
+# sentry
 DOMAIN-SUFFIX,sentry.io
+
+#bard
 DOMAIN-SUFFIX,bard.google.com
+
+#windows copilot
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,sydney.bing.com
