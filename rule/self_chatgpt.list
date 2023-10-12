@@ -8,5 +8,5 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,bard.google.com
 
 #windows copilot
-DOMAIN-SUFFIX,edgeservices.bing.com
-DOMAIN-SUFFIX,sydney.bing.com
+#DOMAIN-SUFFIX,edgeservices.bing.com
+#DOMAIN-SUFFIX,sydney.bing.com
