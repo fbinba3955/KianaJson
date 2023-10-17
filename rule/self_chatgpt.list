@@ -1,9 +1,3 @@
-# chatgpt
-DOMAIN-SUFFIX,openai.com
-
-# sentry
-DOMAIN-SUFFIX,sentry.io
-
 #bard
 DOMAIN-SUFFIX,bard.google.com
 
