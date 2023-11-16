@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,bard.google.com
 #windows copilot
 #DOMAIN-SUFFIX,edgeservices.bing.com
 #DOMAIN-SUFFIX,sydney.bing.com
+
+# openai
+DOMAIN-SUFFIX,oaistatic.com
