@@ -9,4 +9,4 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,oaistatic.com
 
 # google gemini
-DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
