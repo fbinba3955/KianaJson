@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,bard.google.com
 
 # openai
 DOMAIN-SUFFIX,oaistatic.com
+
+# google gemini
+DOMAIN-SUFFIX,googleapis.com
