@@ -36,6 +36,12 @@ DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,civitai.com
 
+# 网文出海
+DOMAIN-SUFFIX,goodnovel.com
+DOMAIN-SUFFIX,webnovel.com
+DOMAIN-SUFFIX,dreame.com
+DOMAIN-SUFFIX,alphanovel.io
+
 # unraid
 DOMAIN-KEYWORD,unraid
 
