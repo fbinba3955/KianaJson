@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,chatgpt.com
 
 # google gemini
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+DOMAIN-SUFFIX,claude.ai
