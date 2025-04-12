@@ -11,3 +11,10 @@ DOMAIN-SUFFIX,chatgpt.com
 
 # google gemini
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+# claude
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-KEYWORD,claudeusercontent
