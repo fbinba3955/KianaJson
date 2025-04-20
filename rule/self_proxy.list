@@ -72,4 +72,6 @@ DOMAIN,steamos.cloud
 
 DOMAIN-SUFFIX,waikanmao.com
 
+DOMAIN-SUFFIX,hdhive.online
+
 IP-CIDR,223.113.13.0/24,no-resolve
