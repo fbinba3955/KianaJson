@@ -67,3 +67,7 @@ DOMAIN-KEYWORD,claudeusercontent
 
 # manus
 DOMAIN-SUFFIX,manus.im
+
+# cursor
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
