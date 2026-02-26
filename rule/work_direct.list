@@ -1,0 +1,11 @@
+# Domains
+DOMAIN-SUFFIX,18.cn
+DOMAIN-SUFFIX,dfcfs.cn
+DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,eastmoney.com
+
+# Aggregated IP ranges
+IP-CIDR,10.0.0.0/8
+IP-CIDR,172.0.0.0/8
+IP-CIDR,180.0.0.0/8
+IP-CIDR,61.129.249.65/32
